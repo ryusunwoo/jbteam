@@ -7,14 +7,16 @@
 #banner .banner_text {
   color: #00286c;
 }
-.banner_text > h1 {
-  font-weight: 600;
-  left: 163px;
-}
 .banner_text > p {
   position: absolute;
-  bottom: 190px;
+  bottom: 170px;
   left: 140px;
+}
+.banner_text > h1 {
+  font-weight: 600;
+  left: 160px;
+  position: absolute;
+  bottom: 120px;
 }
 
 /* lnb */
