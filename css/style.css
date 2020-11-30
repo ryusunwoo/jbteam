@@ -660,3 +660,15 @@ width: 100%;
   font-weight: 400;
   text-shadow: black;
 }
+
+
+
+.off {
+  opacity: 0;
+  transition: 1s;
+}
+
+.on {
+  opacity: 1;
+  transition: 1s;
+}
